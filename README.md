@@ -1,3 +1,8 @@
+<p align = "center"> 
+  <img src = "https://github.com/A-Kutscher/Liver-Cirrhosis-Dataset-Prediction-with-Modeling/assets/135680202/7b3cc38a-fdcb-4c3c-9c9c-9d7cd5f07310">
+</p>
+<p align = "center"> <a href="https://news.llu.edu/health-wellness/three-hidden-signs-you-may-have-liver-damage">Image Source</a></center> </p>
+
 # **Liver Cirrhosis Dataset Prediction with Modeling**
 Author: Amber Kutscher
 
