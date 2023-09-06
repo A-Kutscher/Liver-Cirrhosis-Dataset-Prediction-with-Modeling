@@ -40,15 +40,15 @@ Pharmaceutical Companies: Insights gained from data analysis could inform resear
 ## **METHODS**
 
 1. Data Cleaning:
-Organize and clean sales data by removing duplicates, handling missing values, and addressing outliers for accurate analysis.
+Organize and clean cirrhosis data by removing duplicates, handling missing values, and addressing outliers for accurate analysis.
 
 2. Exploratory Data Analysis (EDA):
-Explore the data to understand patterns and relationships between variables. Perform univariate, bivariate, and multivariate analysis to gain insights into sales trends and influencing factors.
+Explore the data to understand patterns and relationships between variables. Perform univariate, bivariate, and multivariate analysis to gain insights into cirrhosis trends and influencing factors.
 
 3. Modeling:
-Select relevant features that influence sales and choose an appropriate regression model (e.g., multiple linear regression) based on data characteristics. Evaluate the model's performance using metrics like Root Mean Squared Error (RMSE) and R-Squared (R^2 or R2) to ensure accurate predictions.
+Select relevant features that influence cirrhosis and choose an appropriate regression model (e.g., multiple linear regression) based on data characteristics. Evaluate the model's performance using metrics like Root Mean Squared Error (RMSE) and R-Squared (R^2 or R2) to ensure accurate predictions.
 
-    By following these steps, we can calculate the anticipated 2023 sales based on historical data and identified relationships between various factors influencing sales.
+    By following these steps, we can calculate the anticipated outcome (status) based on historical data and identified relationships between various factors influencing cirrhosis.
 
 ## **RESULTS**
 
