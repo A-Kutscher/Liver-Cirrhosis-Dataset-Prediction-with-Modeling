@@ -34,6 +34,7 @@ Pharmaceutical Companies: Insights gained from data analysis could inform resear
     The repository has the following structure:
     ```
     - Liver_Cirrhosis_Dataset_Prediction_with_Modeling.ipynb
+    - PDF Presentation -- Liver Cirrhosis Dataset Prediction with Modeling.pdf
     - README.md
     ```
 
